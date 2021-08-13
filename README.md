@@ -2,4 +2,4 @@
 
 1. npm install
 2. npm start
-3. blowse to http://localhost:4200
+3. browse to http://localhost:4200
